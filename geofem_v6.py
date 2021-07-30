@@ -76,7 +76,7 @@ print('terminado em: ', time.ctime())
 print("\n Elapsed Time = {:1.2f} s".format(time.time() - t))
 #simulação  começa abaixo
 
-# f, rho_app,phs=model.runMT(M,sig,sigBG,sigBG1d,out['freq']) #Run simulacao
+# f, rho_app,phs=model.runMT(M,sig,sigBG,sigBG1d,out['freq']) #Run simulacão
 
 # print("\n the mesh has {} cells".format(M))
 # print('terminado em: ', time.ctime())
